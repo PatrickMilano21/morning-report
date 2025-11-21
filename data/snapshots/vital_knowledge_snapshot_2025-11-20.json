@@ -1,0 +1,147 @@
+{
+  "as_of": "2025-11-20",
+  "tickers": [
+    {
+      "ticker": "AAPL",
+      "error": null,
+      "vital_knowledge": {
+        "ticker": "AAPL",
+        "headlines": [],
+        "report_dates": [
+          "2025-11-20",
+          "2025-11-20"
+        ],
+        "summary": null
+      }
+    },
+    {
+      "ticker": "GOOGL",
+      "error": "YahooQuote failed",
+      "vital_knowledge": {
+        "ticker": "GOOGL",
+        "headlines": [
+          {
+            "headline": "The report highlights Google's position in frontier AI technology alongside startups like OpenAI, Anthropic, and xAI, emphasizing its leadership in proprietary AI tech with the Gemini 3 release.",
+            "context": null,
+            "sentiment": null
+          },
+          {
+            "headline": "Google's AI advancements, particularly with Gemini 3, may impact the AI trade sentiment, as it represents a significant moment in the AI mania, potentially affecting investor perception of GOOGL stock.",
+            "context": null,
+            "sentiment": null
+          },
+          {
+            "headline": "The AI narrative involving Google is influenced by competition and developments from other AI companies like Microsoft and Anthropic, which could affect GOOGL's market dynamics.",
+            "context": null,
+            "sentiment": null
+          },
+          {
+            "headline": "The report suggests that the multi-year boom in data center construction, partly driven by AI developments including Google's, may face uncertainty if enthusiasm for AI technologies like ChatGPT diminishes, impacting GOOGL's growth prospects.",
+            "context": null,
+            "sentiment": null
+          },
+          {
+            "headline": "GOOGL announced an expansion of its Waymo autonomous rideshare service to Minneapolis, Tampa, and New Orleans, signaling growth in its autonomous vehicle operations.",
+            "context": null,
+            "sentiment": null
+          }
+        ],
+        "report_dates": [
+          "2025-11-20",
+          "2025-11-20"
+        ],
+        "summary": {
+          "overall_sentiment": null,
+          "key_themes": [],
+          "summary": "Google is positioned as a leader in frontier AI technology with its Gemini 3 release, impacting AI trade sentiment amid competition from Microsoft and Anthropic. The multi-year data center boom driven by AI may face uncertainty if enthusiasm wanes. Additionally, Google is expanding its Waymo autonomous rideshare service to new cities, signaling growth in autonomous vehicle operations."
+        }
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "error": null,
+      "vital_knowledge": {
+        "ticker": "NVDA",
+        "headlines": [
+          {
+            "headline": "Nvidia (NVDA) reported strong FQ3 upside on EPS and revenue, with EPS at $1.30 beating the Street estimate of $1.26 and revenue at $57B surpassing the expected $55.18B, alongside better operating margins of 66.2%.",
+            "context": null,
+            "sentiment": null
+          },
+          {
+            "headline": "NVDA's FQ4 guidance came in above Street expectations, indicating continued strong performance.",
+            "context": null,
+            "sentiment": null
+          },
+          {
+            "headline": "Management refuted concerns about an AI bubble and pushed back on talk of rapidly depreciating GPU values, noting that its Cuda software helps extend the lifespan of legacy GPUs.",
+            "context": null,
+            "sentiment": null
+          },
+          {
+            "headline": "Despite the strong earnings report, Nvidia's stock was among earnings-linked underperformers, suggesting some investor skepticism or profit-taking.",
+            "context": null,
+            "sentiment": null
+          },
+          {
+            "headline": "The Nvidia report did not fully dispel AI skeptics, as the AI bear thesis focuses on the economic sense of all the capacity rather than current demand, which remains uncertain.",
+            "context": null,
+            "sentiment": null
+          }
+        ],
+        "report_dates": [
+          "2025-11-20",
+          "2025-11-20"
+        ],
+        "summary": {
+          "overall_sentiment": null,
+          "key_themes": [],
+          "summary": "Nvidia reported strong FQ3 earnings and FQ4 guidance above expectations, with management addressing concerns about an AI bubble and GPU depreciation. Despite the positive results, the stock underperformed, reflecting ongoing skepticism about the economic viability of AI capacity expansion."
+        }
+      }
+    },
+    {
+      "ticker": "AMZN",
+      "error": null,
+      "vital_knowledge": {
+        "ticker": "AMZN",
+        "headlines": [
+          {
+            "headline": "AMZN stock was among the underperforming tech stocks on Thursday, reflecting broader tech sector weakness despite strong earnings from peers like Nvidia.",
+            "context": null,
+            "sentiment": null
+          },
+          {
+            "headline": "The report highlights that AI-related stocks, including AMZN, have seen poor price action over the last 2.5 weeks, not due to near-term data center demand concerns but due to lingering skepticism about the economic viability of AI capacity expansion.",
+            "context": null,
+            "sentiment": null
+          },
+          {
+            "headline": "AMZN's underperformance contrasts with positive earnings and guidance from other tech companies, indicating investor caution towards AMZN despite sector tailwinds.",
+            "context": null,
+            "sentiment": null
+          },
+          {
+            "headline": "There were no specific fundamental developments or headlines directly impacting AMZN between 10:30 and 11amET, suggesting its price action was driven by technical factors rather than company-specific news.",
+            "context": null,
+            "sentiment": null
+          },
+          {
+            "headline": "No direct earnings or guidance updates for AMZN were reported in this market close report, implying that recent stock movements are influenced more by market sentiment and technical positioning than new company-specific information.",
+            "context": null,
+            "sentiment": null
+          }
+        ],
+        "report_dates": [
+          "2025-11-20",
+          "2025-11-20"
+        ],
+        "summary": {
+          "overall_sentiment": null,
+          "key_themes": [],
+          "summary": "AMZN stock underperformed amid broader tech weakness despite strong earnings from peers like Nvidia. The poor price action is attributed to lingering skepticism about the economic viability of AI capacity expansion rather than near-term demand concerns, with no company-specific fundamental developments or news driving the movement."
+        }
+      }
+    }
+  ]
+}

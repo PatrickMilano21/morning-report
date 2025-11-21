@@ -1,0 +1,237 @@
+{
+  "as_of": "2025-11-20",
+  "tickers": [
+    {
+      "ticker": "AAPL",
+      "error": null,
+      "googlenews": {
+        "ticker": "AAPL",
+        "stories": [
+          {
+            "headline": "In Time for the Holidays, Apple (AAPL) Launches the \u2018iPhone Pocket\u2019",
+            "url": "https://www.tipranks.com/news/in-time-for-the-holidays-apple-aapl-launches-the-iphone-pocket",
+            "source": "TipRanks",
+            "age": "5 hours ago",
+            "summary": "Apple has launched the 'iPhone Pocket,' a high-end fashion accessory designed with Issey Miyake, priced between $149.95 and $229.95. The product has received mixed reactions due to its simplicity and high price. This news is neutral for AAPL stock, which currently holds a Moderate Buy rating with an 8.17% upside potential based on analyst consensus.",
+            "sentiment": "neutral"
+          },
+          {
+            "headline": "Apple Stock Today, November 20, 2025: Buffett Slashes Stake as AAPL Climbs Near Record Highs",
+            "url": "https://ts2.tech/en/apple-stock-today-november-20-2025-buffett-slashes-stake-as-aapl-climbs-near-record-highs/",
+            "source": "ts2.tech",
+            "age": "8 hours ago",
+            "summary": "Apple stock is rallying near record highs despite Warren Buffett's Berkshire Hathaway selling about 74% of its Apple shares, reallocating $4.3 billion into Alphabet. The stock's rise is supported by a broader tech rebound, strong fundamentals including double-digit EPS growth, and ongoing institutional interest. Buffett's sale is viewed as a portfolio and tax-management decision rather than a lack of confidence, making the overall sentiment neutral to positive for Apple stock.",
+            "sentiment": "neutral"
+          },
+          {
+            "headline": "Rob Gronkowski's forgotten $69,000 Apple investment that transformed his net worth has hidden strategy",
+            "url": "https://www.uniladtech.com/apple/rob-gronkowski-forgotten-apple-investment-hidden-strategy-970031-20251120",
+            "source": "UNILAD Tech",
+            "age": "8 hours ago",
+            "summary": "Rob Gronkowski invested $69,000 in Apple stock in 2014 on a contractor's advice and forgot about it. Nearly a decade later, the investment grew to over $600,000, significantly increasing his net worth. This growth reflects a positive outcome for AAPL stock, illustrating the benefits of long-term holding strategies similar to those advocated by Warren Buffett.",
+            "sentiment": "positive"
+          },
+          {
+            "headline": "Here\u2019s How Apple (AAPL) Impacted Baron Opportunity Fund\u2019s Performance",
+            "url": "https://finance.yahoo.com/news/apple-aapl-impacted-baron-opportunity-141918493.html",
+            "source": "Yahoo Finance",
+            "age": "10 hours ago",
+            "summary": "Baron Opportunity Fund reported a 5.44% return in Q3 2025, underperforming the Russell 3000 Growth Index due to not holding mega-cap stocks like Apple, which rebounded sharply during the quarter. Apple's stock gained 3.46% over the month and closed at $268.56 with a market cap of $3.986 trillion. The fund's non-ownership of Apple accounted for 43% of its IT sector underperformance, indicating a negative impact on the fund's relative performance despite Apple's positive stock movement.",
+            "sentiment": "negative"
+          },
+          {
+            "headline": "Warren Buffett Sells 74% of Apple Stake, Invests Billions in Alphabet",
+            "url": "https://finance.yahoo.com/news/warren-buffett-sells-74-apple-115447271.html",
+            "source": "Yahoo Finance",
+            "age": "13 hours ago",
+            "summary": "Berkshire Hathaway significantly reduced its Apple stake by selling about 74% of its shares since September 2023 and invested approximately $4.3 billion to acquire 17.8 million shares of Alphabet. This shift reflects a strategic move to lock in gains and manage tax positions while capitalizing on potential growth in Google's cloud and AI businesses. The market reacted positively to Berkshire's new Alphabet position, indicating a neutral to positive impact on Apple stock due to the sale but positive sentiment overall for Berkshire's portfolio.",
+            "sentiment": "neutral"
+          }
+        ],
+        "news_summary": {
+          "overall_sentiment": "neutral",
+          "bullet_points": [
+            "Berkshire Hathaway sold approximately 74% of its Apple shares since September 2023, disposing of about 677 million shares, reallocating $4.3 billion into Alphabet shares.",
+            "Apple stock is rallying near record highs supported by strong fundamentals including double-digit EPS growth and ongoing institutional interest despite Berkshire's stake reduction.",
+            "Apple's China sales remain strong, driven by the iPhone 17, indicating continued demand in key markets.",
+            "Baron Opportunity Fund underperformed due to not holding mega-cap stocks like Apple, which gained 3.46% over the month and closed at $268.56 with a market cap of $3.986 trillion."
+          ]
+        }
+      }
+    },
+    {
+      "ticker": "GOOGL",
+      "error": "YahooQuote failed",
+      "googlenews": {
+        "ticker": "GOOGL",
+        "stories": [
+          {
+            "headline": "Investor George Soros Increases Stake in Alphabet Stock (GOOGL) by 2,300%",
+            "url": "https://www.tipranks.com/news/investor-george-soros-increases-stake-in-alphabet-stock-googl-by-2300",
+            "source": "TipRanks",
+            "age": "3 hours ago",
+            "summary": "Billionaire investor George Soros significantly increased his stake in Alphabet (GOOGL) by 2,300% during the third quarter, signaling strong bullish sentiment. This move is notable as GOOGL, along with Apple and Amazon, had been among the worst-performing tech stocks but has since rallied due to positive developments like strong sales and legal wins. Soros' large investment is viewed positively for GOOGL stock, which holds a consensus Strong Buy rating with an average price target implying nearly 8% upside.",
+            "sentiment": "positive"
+          },
+          {
+            "headline": "Google touts voluntary exit deals to UK employees - report (GOOGL:NASDAQ)",
+            "url": "https://seekingalpha.com/news/4524632-google-touts-voluntary-exit-deals-to-uk-employees---report",
+            "source": "Seeking Alpha",
+            "age": "3 hours ago",
+            "summary": "The article reports that Google is offering voluntary exit deals to its UK employees. This move is likely causing fluctuations in GOOGL stock as it signals potential restructuring or cost-cutting efforts. The news is generally neutral to slightly positive as voluntary exits can reduce costs without forced layoffs, but it also indicates challenges in the UK market.",
+            "sentiment": "neutral"
+          },
+          {
+            "headline": "As AI Propels Alphabet Stock Upward, GOOGL Nears $4 Trillion Valuation",
+            "url": "https://www.inkl.com/news/as-ai-propels-alphabet-stock-upward-googl-nears-4-trillion-valuation",
+            "source": "inkl",
+            "age": "6 hours ago",
+            "summary": "Alphabet's stock rose about 3% after Google launched its new AI model, Gemini 3, which offers improved and more concise responses. This AI advancement has renewed investor optimism, driving the stock to new highs and pushing Alphabet closer to a $4 trillion market valuation. The news is positive for GOOGL as AI is a key growth driver for the company.",
+            "sentiment": "positive"
+          },
+          {
+            "headline": "Alphabet (GOOGL) Stock Today: New Record High on AI Hype and Berkshire Bet \u2013 November 20, 2025",
+            "url": "https://ts2.tech/en/alphabet-googl-stock-today-new-record-high-on-ai-hype-and-berkshire-bet-november-20-2025/",
+            "source": "ts2.tech",
+            "age": "8 hours ago",
+            "summary": "Alphabet's stock reached a new record high driven by enthusiasm for its Gemini 3 AI model and a significant investment from Berkshire Hathaway. This combination of AI innovation and Warren Buffett's rare tech bet has boosted investor confidence, pushing the stock above $300 and contributing to a 50%+ gain in 2025. The sentiment is positive, supported by strong analyst buy ratings and bullish price targets, although some caution remains about valuation and AI spending risks.",
+            "sentiment": "positive"
+          },
+          {
+            "headline": "Alphabet's record-high stock rally continues amid AI enthusiasm; unveils $2B data center (GOOG:NASDAQ)",
+            "url": "https://seekingalpha.com/news/4524551-alphabets-record-high-stock-rally-continues-amid-ai-enthusiasm-unveils-2b-data-center",
+            "source": "Seeking Alpha",
+            "age": "8 hours ago",
+            "summary": "Shares of Alphabet, Google's parent company, reached a new record high, continuing a two-day winning streak. The Class A shares rose as much as 4.4% to $305.65 in early trading, driven by enthusiasm around AI and the unveiling of a $2 billion data center. This development is positive for the stock as it reflects investor confidence in Alphabet's growth and AI initiatives.",
+            "sentiment": "positive"
+          }
+        ],
+        "news_summary": {
+          "overall_sentiment": "bullish",
+          "bullet_points": [
+            "Investor George Soros increased his stake in Alphabet (GOOGL) by 2,300% in Q3, signaling strong bullish sentiment and confidence in the stock's upside potential.",
+            "Alphabet's stock reached new record highs driven by enthusiasm for its Gemini 3 AI model and a significant investment from Berkshire Hathaway, contributing to a 50%+ gain in 2025.",
+            "Google is offering voluntary exit deals to UK employees, indicating potential restructuring or cost-cutting efforts, which is neutral to slightly positive for the stock.",
+            "Alphabet unveiled a $2 billion data center, further fueling investor confidence in its AI initiatives and growth prospects, with shares rising as much as 4.4% to $305.65 in early trading."
+          ]
+        }
+      }
+    },
+    {
+      "ticker": "NVDA",
+      "error": null,
+      "googlenews": {
+        "ticker": "NVDA",
+        "stories": [
+          {
+            "headline": "Nvidia Q3 Earnings Reality Check: NVDA Stock Gives It All Back on Strategy Shift",
+            "url": "https://www.fxleaders.com/news/2025/11/20/nvidia-q3-earnings-reality-check-nvda-stock-gives-it-all-back-on-strategy-shift/",
+            "source": "FXLeaders",
+            "age": "43 minutes ago",
+            "summary": "Nvidia reported strong third-quarter earnings with revenue and profit surpassing expectations, driven by AI hardware demand. However, the stock declined as investors grew cautious about the sustainability of high valuations and the company's strategic pivot towards AI infrastructure with Brookfield Asset Management, which introduces new risks. This shift in investor sentiment reflects a more critical market outlook, making the news neutral to slightly negative for NVDA stock.",
+            "sentiment": "neutral"
+          },
+          {
+            "headline": "Peter Thiel Dumps NVIDIA and Slashes Tesla Stake\u2014Is the AI Bubble About to Pop?",
+            "url": "https://www.marketbeat.com/originals/peter-thiel-dumps-nvidia-and-slashes-tesla-stakeis-the-ai-bubble-about-to-pop/",
+            "source": "MarketBeat",
+            "age": "1 hour ago",
+            "summary": "Billionaire investor Peter Thiel's hedge fund, Thiel Macro LLC, sold its entire $100 million stake in NVIDIA and cut its Tesla position by 76% in Q3 amid rising concerns about an overheating AI-driven tech rally. These moves reflect a shift in institutional sentiment and caution about a potential AI bubble, although NVIDIA's strong earnings suggest the AI boom may continue. The news is neutral to slightly negative for NVDA stock as it signals caution but not an immediate downturn.",
+            "sentiment": "neutral"
+          },
+          {
+            "headline": "Markets News, Nov. 20, 2025: Major Stock Indexes Post Massive Losses as Early Nvidia-Led Rally Fades; Walmart Jumps on Strong Results, Outlook",
+            "url": "https://www.investopedia.com/dow-jones-today-11202025-11853411",
+            "source": "Investopedia",
+            "age": "2 hours ago",
+            "summary": "Nvidia reported fiscal 2026 third-quarter results that exceeded Wall Street expectations and issued strong revenue guidance, with CEO Jensen Huang highlighting exceptional sales of its AI Blackwell platform. Despite an early session rally where Nvidia shares rose about 5%, the stock ended down 3.2% as major stock indexes erased gains and closed sharply lower. The mixed market reaction reflects ongoing debate about the sustainability of the AI-driven rally, but analysts view Nvidia's strong results as a positive indicator for continued AI spending and tech sector momentum.",
+            "sentiment": "neutral"
+          },
+          {
+            "headline": "After Ugly Market Reversal, What To Do",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ugly-market-reversal-nvidia-fizzles-bitcoin-dives/",
+            "source": "Investor's Business Daily",
+            "age": "2 hours ago",
+            "summary": "Nvidia stock initially surged after reporting strong earnings but then fell back, closing down 3% and dropping below key technical levels, contributing to a broad market sell-off. This reversal, along with declines in other leading AI and tech stocks and a bitcoin sell-off, caused major indexes to tumble sharply. The event is negative for Nvidia stock and reflects increased market fear and defensive investor behavior.",
+            "sentiment": "negative"
+          },
+          {
+            "headline": "Stocks stuck on rollercoaster despite strong Nvidia earnings",
+            "url": "https://www.reuters.com/business/finance/global-markets-tech-2025-11-20/",
+            "source": "Reuters",
+            "age": "2 hours ago",
+            "summary": null,
+            "sentiment": null
+          }
+        ],
+        "news_summary": {
+          "overall_sentiment": "mixed",
+          "bullet_points": [
+            "Nvidia reported strong Q3 earnings with revenue and profit surpassing expectations, driven by high demand for AI hardware, but the stock declined due to investor caution about valuation sustainability and strategic shifts.",
+            "Billionaire Peter Thiel's hedge fund sold its entire $100 million stake in Nvidia and significantly reduced Tesla holdings, signaling institutional caution about a potential AI bubble despite Nvidia's strong earnings.",
+            "Nvidia's fiscal 2026 Q3 results exceeded Wall Street expectations with strong revenue guidance and exceptional sales of its AI Blackwell platform, yet the stock ended down 3.2% amid a broader market sell-off and debate over AI rally sustainability.",
+            "Nvidia stock initially surged post-earnings but closed down 3%, falling below key technical levels, contributing to a broad market sell-off driven by increased market fear and defensive investor behavior."
+          ]
+        }
+      }
+    },
+    {
+      "ticker": "AMZN",
+      "error": null,
+      "googlenews": {
+        "ticker": "AMZN",
+        "stories": [
+          {
+            "headline": "Best Stocks to Buy in November 2025",
+            "url": "https://www.fool.com/investing/top-stocks-to-buy-and-hold/",
+            "source": "The Motley Fool",
+            "age": "3 hours ago",
+            "summary": "Amazon remains a dominant leader in U.S. e-commerce and cloud computing through its AWS platform, with significant growth potential in sectors like healthcare and grocery stores. Despite a recent 2.5% stock decline to $217.03, the company's strong market position and expanding opportunities suggest positive long-term prospects. This news is neutral to slightly negative in the short term due to the stock price drop but positive overall for Amazon's stock outlook.",
+            "sentiment": "neutral"
+          },
+          {
+            "headline": "Amazon Stock (AMZN) Falls despite Plan to Build New $3B Data Center in Mississippi",
+            "url": "https://www.tipranks.com/news/amazon-stock-amzn-falls-despite-plan-to-build-new-3b-data-center-in-mississippi",
+            "source": "TipRanks",
+            "age": "6 hours ago",
+            "summary": "Amazon announced plans to build a new $3 billion data center campus in Warren County, Mississippi, aimed at supporting AI and cloud computing workloads. Despite this significant investment, which is the largest private investment in the county's history, Amazon's shares fell by 2.49% following the announcement. The stock decline may be influenced by broader market concerns about an AI bubble and recent bond market activities, making the news neutral to slightly negative for the stock in the short term.",
+            "sentiment": "neutral"
+          },
+          {
+            "headline": "Amazon.com, Inc. (AMZN) Stock: Amazon Invests $3 Billion in Mississippi for New AI Data Center Campus",
+            "url": "https://coincentral.com/amazon-com-inc-amzn-stock-amazon-invests-3-billion-in-mississippi-for-new-ai-data-center-campus/",
+            "source": "CoinCentral",
+            "age": "6 hours ago",
+            "summary": "Amazon announced a $3 billion investment to build a next-generation AI and cloud data center campus in Warren County, Mississippi, marking the largest private investment in the county's history. This project will create 200 direct jobs and over 300 community jobs, supporting Amazon's expanding AI and cloud infrastructure needs. The investment is positive for AMZN stock as it demonstrates Amazon's commitment to growth in AI and cloud computing, potentially enhancing its long-term operational capabilities and market position.",
+            "sentiment": "positive"
+          },
+          {
+            "headline": "Amazon\u2019s Stock Strikes Back For Its Investors [Video]",
+            "url": "https://www.aol.com/finance/amazon-stock-strikes-back-investors-181937798.html",
+            "source": "AOL.com",
+            "age": "7 hours ago",
+            "summary": null,
+            "sentiment": null
+          },
+          {
+            "headline": "Amazon: Scoop Up This Bargain Hiding In Plain Sight Now (NASDAQ:AMZN)",
+            "url": "https://seekingalpha.com/article/4846170-amazon-scoop-up-bargain-hiding-in-plain-sight-now",
+            "source": "Seeking Alpha",
+            "age": "8 hours ago",
+            "summary": "The article discusses Amazon (AMZN) as a bargain investment opportunity currently overlooked by the market. This perception is causing interest in AMZN stock as investors consider its potential value. The sentiment conveyed is positive, suggesting optimism about the stock's prospects.",
+            "sentiment": "positive"
+          }
+        ],
+        "news_summary": {
+          "overall_sentiment": "mixed",
+          "bullet_points": [
+            "Amazon remains a dominant leader in U.S. e-commerce and cloud computing through AWS, with significant growth potential in healthcare and grocery sectors, despite a recent 2.5% stock decline to $217.03.",
+            "Amazon announced a $3 billion investment to build a next-generation AI and cloud data center campus in Warren County, Mississippi, marking the largest private investment in the county's history and creating over 500 jobs.",
+            "Despite the significant data center investment, Amazon's shares fell by 2.49%, possibly due to broader market concerns about an AI bubble and bond market activities.",
+            "Some market commentary views Amazon stock as a bargain investment opportunity currently overlooked by the market, suggesting positive long-term prospects."
+          ]
+        }
+      }
+    }
+  ]
+}

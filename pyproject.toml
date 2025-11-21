@@ -1,0 +1,16 @@
+[project]
+name = "morning_report"
+version = "0.1.0"
+description = "Stagehand-first Yahoo Finance morning snapshot generator"
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+  "python-dotenv",
+  "pydantic>=2",
+  "stagehand",        # Stagehand Python SDK: from stagehand import Stagehand
+  "browserbase",      # Browserbase client (optional but useful)
+]
+
+[project.scripts]
+morning-report = "src.core.cli.run_morning_snapshot:main_cli"

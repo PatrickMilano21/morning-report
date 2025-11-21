@@ -1,0 +1,25 @@
+{
+  "as_of": "2025-11-20",
+  "macro_news": {
+    "morning_date": "2025-11-20",
+    "morning_url": "https://vitalknowledge.net/?category=morning",
+    "morning_summary": "US stocks are showing positive momentum this morning, largely driven by strong performance in the tech sector, particularly Nvidia. Market sentiment is cautiously optimistic ahead of key economic data releases and major corporate earnings, with investors closely watching catalysts such as Nvidia, Walmart, and US jobs data.",
+    "morning_bullets": [
+      "US stocks have a bid this morning, with Nvidia playing a significant role in driving gains.",
+      "Modest gains are observed in the US market as investors anticipate three major catalysts: Nvidia earnings, Walmart earnings, and upcoming US jobs data.",
+      "Tech sector is leading the upside, extending gains from the previous Friday afternoon session.",
+      "Market participants are preparing for key economic indicators, including US jobs data, which is influencing current market sentiment.",
+      "Stocks are rallying or stabilizing after recent losses, reflecting cautious optimism amid upcoming corporate earnings and economic data releases."
+    ],
+    "market_close_date": "2025-11-20",
+    "market_close_url": "https://vitalknowledge.net/?category=market-close",
+    "market_close_summary": "Stocks experienced significant declines on Thursday, driven by renewed anxiety in the AI sector following Nvidia's disappointing performance. The market sentiment turned cautious as investors reacted to sector-specific concerns, leading to broad losses across major indices.",
+    "market_close_bullets": [
+      "Stocks suffered heavy losses on Thursday, November 20, 2025, after Nvidia failed to alleviate AI-related concerns.",
+      "The Nasdaq extended its losses on Tuesday, November 18, 2025, while the equal-weight S&P and Russell 2000 indices managed modest gains, indicating mixed sector performance.",
+      "Stocks saw steep losses on Monday, November 17, 2025, reflecting heightened market volatility and risk-off sentiment.",
+      "Despite the slump in tech, stocks saw decent gains on Tuesday, November 11, 2025, suggesting some resilience in other sectors.",
+      "Overall, the market has been volatile with mixed price action throughout the week, influenced heavily by tech sector developments and investor sentiment towards AI advancements."
+    ]
+  }
+}

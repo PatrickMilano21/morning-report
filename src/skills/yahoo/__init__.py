@@ -1,0 +1,2 @@
+# yahoo skills package marker
+
