@@ -16,32 +16,12 @@
     },
     {
       "ticker": "GOOGL",
-      "error": "YahooQuote failed",
+      "error": null,
       "vital_knowledge": {
         "ticker": "GOOGL",
         "headlines": [
           {
-            "headline": "The report highlights Google's position in frontier AI technology alongside startups like OpenAI, Anthropic, and xAI, emphasizing its leadership in proprietary AI tech with the Gemini 3 release.",
-            "context": null,
-            "sentiment": null
-          },
-          {
-            "headline": "Google's AI advancements, particularly with Gemini 3, may impact the AI trade sentiment, as it represents a significant moment in the AI mania, potentially affecting investor perception of GOOGL stock.",
-            "context": null,
-            "sentiment": null
-          },
-          {
-            "headline": "The AI narrative involving Google is influenced by competition and developments from other AI companies like Microsoft and Anthropic, which could affect GOOGL's market dynamics.",
-            "context": null,
-            "sentiment": null
-          },
-          {
-            "headline": "The report suggests that the multi-year boom in data center construction, partly driven by AI developments including Google's, may face uncertainty if enthusiasm for AI technologies like ChatGPT diminishes, impacting GOOGL's growth prospects.",
-            "context": null,
-            "sentiment": null
-          },
-          {
-            "headline": "GOOGL announced an expansion of its Waymo autonomous rideshare service to Minneapolis, Tampa, and New Orleans, signaling growth in its autonomous vehicle operations.",
+            "headline": "GOOGL announced an expansion of its Waymo autonomous rideshare service to Minneapolis, Tampa, and New Orleans.",
             "context": null,
             "sentiment": null
           }
@@ -53,7 +33,7 @@
         "summary": {
           "overall_sentiment": null,
           "key_themes": [],
-          "summary": "Google is positioned as a leader in frontier AI technology with its Gemini 3 release, impacting AI trade sentiment amid competition from Microsoft and Anthropic. The multi-year data center boom driven by AI may face uncertainty if enthusiasm wanes. Additionally, Google is expanding its Waymo autonomous rideshare service to new cities, signaling growth in autonomous vehicle operations."
+          "summary": "GOOGL announced an expansion of its Waymo autonomous rideshare service to Minneapolis, Tampa, and New Orleans, indicating growth and increased deployment of its autonomous vehicle technology."
         }
       }
     },
@@ -64,12 +44,12 @@
         "ticker": "NVDA",
         "headlines": [
           {
-            "headline": "Nvidia (NVDA) reported strong FQ3 upside on EPS and revenue, with EPS at $1.30 beating the Street estimate of $1.26 and revenue at $57B surpassing the expected $55.18B, alongside better operating margins of 66.2%.",
+            "headline": "Nvidia (NVDA) reported strong FQ3 upside on EPS and revenue, with EPS at $1.30 beating the Street estimate of $1.26 and revenue at $57B surpassing the $55.18B consensus.",
             "context": null,
             "sentiment": null
           },
           {
-            "headline": "NVDA's FQ4 guidance came in above Street expectations, indicating continued strong performance.",
+            "headline": "NVDA's FQ4 guidance came in above Street expectations, indicating positive outlook for the next quarter.",
             "context": null,
             "sentiment": null
           },
@@ -79,12 +59,12 @@
             "sentiment": null
           },
           {
-            "headline": "Despite the strong earnings report, Nvidia's stock was among earnings-linked underperformers, suggesting some investor skepticism or profit-taking.",
+            "headline": "Despite the strong report, the Nvidia earnings were not enough to quiet AI skeptics, as questions about the economic sense of all the AI capacity remain.",
             "context": null,
             "sentiment": null
           },
           {
-            "headline": "The Nvidia report did not fully dispel AI skeptics, as the AI bear thesis focuses on the economic sense of all the capacity rather than current demand, which remains uncertain.",
+            "headline": "NVDA was listed among earnings-linked underperformers, suggesting that despite strong earnings, the stock underperformed in the market following the report.",
             "context": null,
             "sentiment": null
           }
@@ -96,7 +76,7 @@
         "summary": {
           "overall_sentiment": null,
           "key_themes": [],
-          "summary": "Nvidia reported strong FQ3 earnings and FQ4 guidance above expectations, with management addressing concerns about an AI bubble and GPU depreciation. Despite the positive results, the stock underperformed, reflecting ongoing skepticism about the economic viability of AI capacity expansion."
+          "summary": "Nvidia reported strong FQ3 earnings and FQ4 guidance above expectations, with management addressing concerns about an AI bubble and GPU depreciation. However, despite the positive results, the stock underperformed and AI skeptics remain unconvinced about the economic viability of the AI capacity expansion."
         }
       }
     },
@@ -107,27 +87,27 @@
         "ticker": "AMZN",
         "headlines": [
           {
-            "headline": "AMZN stock was among the underperforming tech stocks on Thursday, reflecting broader tech sector weakness despite strong earnings from peers like Nvidia.",
+            "headline": "AMZN stock underperformed on Thursday, reflecting broader tech sector weakness amid technical-driven market pullback rather than fundamental issues.",
             "context": null,
             "sentiment": null
           },
           {
-            "headline": "The report highlights that AI-related stocks, including AMZN, have seen poor price action over the last 2.5 weeks, not due to near-term data center demand concerns but due to lingering skepticism about the economic viability of AI capacity expansion.",
+            "headline": "The report highlights that AI-linked stocks, including AMZN, have seen poor price action over the last 2.5 weeks despite strong near-term data center trends, indicating ongoing skepticism about the AI mania's economic sustainability.",
             "context": null,
             "sentiment": null
           },
           {
-            "headline": "AMZN's underperformance contrasts with positive earnings and guidance from other tech companies, indicating investor caution towards AMZN despite sector tailwinds.",
+            "headline": "No specific earnings or company-specific news for AMZN was reported in this market close report, suggesting stock movement was primarily influenced by sector-wide and technical factors.",
             "context": null,
             "sentiment": null
           },
           {
-            "headline": "There were no specific fundamental developments or headlines directly impacting AMZN between 10:30 and 11amET, suggesting its price action was driven by technical factors rather than company-specific news.",
+            "headline": "The AI narrative, heavily influenced by OpenAI and competitors like Microsoft and Anthropic, impacts AMZN's stock sentiment as part of the broader tech and AI sector dynamics.",
             "context": null,
             "sentiment": null
           },
           {
-            "headline": "No direct earnings or guidance updates for AMZN were reported in this market close report, implying that recent stock movements are influenced more by market sentiment and technical positioning than new company-specific information.",
+            "headline": "AMZN's underperformance contrasts with outperformance in other sectors such as healthcare and consumer staples, indicating sector rotation or investor caution in tech stocks including AMZN.",
             "context": null,
             "sentiment": null
           }
@@ -139,7 +119,7 @@
         "summary": {
           "overall_sentiment": null,
           "key_themes": [],
-          "summary": "AMZN stock underperformed amid broader tech weakness despite strong earnings from peers like Nvidia. The poor price action is attributed to lingering skepticism about the economic viability of AI capacity expansion rather than near-term demand concerns, with no company-specific fundamental developments or news driving the movement."
+          "summary": "AMZN stock underperformed due to broader tech sector weakness and technical factors rather than company-specific news. Despite strong near-term data center trends, skepticism about the economic sustainability of the AI mania persists, impacting AMZN's stock sentiment as part of the broader tech and AI sector dynamics. This underperformance contrasts with outperformance in sectors like healthcare and consumer staples, indicating sector rotation or investor caution in tech stocks including AMZN."
         }
       }
     }

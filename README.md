@@ -11,6 +11,8 @@ Morning Snapshot pulls quotes, AI analysis, and headlines from Yahoo Finance, Go
 - **Sentiment Analysis**: Bullish/bearish assessment with brief explanation
 - **Key Points**: Four concise bullet points combining news from all sources
 
+> 💡 **Example Report**: See [`data/reports/morning_snapshot_2025-11-20.md`](data/reports/morning_snapshot_2025-11-20.md) for a detailed example of the generated report.
+
 ## Features
 
 - ✅ **Multi-Source Aggregation**: Yahoo Finance, Google News, MarketWatch, Vital Knowledge

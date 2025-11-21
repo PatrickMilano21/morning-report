@@ -21,33 +21,46 @@
       },
       "analysis": {
         "ticker": "AAPL",
-        "title": "AI Analysis",
-        "updated_at": "Updated 22m ago",
-        "summary": "Apple Inc. shows strong resilience with growth in its accessories sector and a favorable market position among the Magnificent Seven stocks. Positive trends in revenue and earnings growth, along with strategic AI investments, enhance its long-term outlook. Despite a recent slight stock decline amid broader tech sector headwinds, Apple continues to demonstrate strength and potential benefits from AI-related supply chain improvements.",
+        "title": "Why is AAPL moving today?",
+        "updated_at": "19m ago",
+        "summary": "Apple (AAPL) shares fell 0.61% as investors reacted to broader tech sector weakness and concerns over competition in the AI space, underperforming the S&P 500's 1.15% decline. Recent developments highlight Apple's strategic partnerships and market growth, with significant investments in AI and a strong outlook for its accessories market. Apple's collaboration with Foxconn and Intrinsic signals a commitment to enhancing manufacturing capabilities amidst evolving technology trends. Despite some challenges in free cash flow, solid revenue and earnings growth reflect a positive trajectory.",
         "bullets": [
-          "Apple's stock has performed well among the Magnificent Seven, contributing positively to investor sentiment despite fluctuations in other tech stocks.",
-          "Foxconn plans to invest $2-3 billion annually in AI, which may improve Apple's production efficiency and product innovation.",
-          "Apple insiders reported 6 recent transactions: 5 stock sales totaling $2,056,442.44 and 1 stock gift of 3,750 shares; largest sale by Chris Kondo of 3,752 shares at $271.23 per share.",
-          "The Apple accessories market is projected to grow at a CAGR of 8.23%, increasing from $28.3 billion in 2024 to $53.2 billion by 2032.",
-          "Apple's recent stock decline of 0.59% occurred amid broader market declines and concerns over competitive pressures in consumer electronics."
+          "Apple's stock declined 0.61%, underperforming the S&P 500's 1.15% drop due to tech sector weakness and AI competition concerns.",
+          "Apple is investing significantly in AI, including a partnership with Foxconn to invest $2-3 billion annually in AI and automation to enhance manufacturing efficiency.",
+          "The Apple Accessories Market is projected to grow from $28.3 billion in 2024 to $53.2 billion by 2032, driven by increasing device sales and ecosystem demand.",
+          "Apple reported Q4 FY2025 revenue of $102.5B (+8% YoY), EPS of $1.85 (+13% YoY), and record services revenue of $28.8B (+15% YoY).",
+          "Insiders reported 6 recent transactions totaling over $2 million, including 5 stock sales and 1 gift, with the largest sale by Chris Kondo for $1,017,654.96."
         ]
       }
     },
     {
       "ticker": "GOOGL",
-      "error": "YahooQuote failed",
-      "quote": null,
+      "error": null,
+      "quote": {
+        "ticker": "GOOGL",
+        "last_price": 289.45,
+        "change_abs": -3.36,
+        "change_pct": -1.15,
+        "currency": "USD",
+        "open_price": 304.55,
+        "previous_close": 292.81,
+        "day_low": 288.67,
+        "day_high": 306.41,
+        "volume": 61533187,
+        "avg_volume": 35044467,
+        "premarket_change_pct": null,
+        "after_hours_change_pct": null
+      },
       "analysis": {
         "ticker": "GOOGL",
-        "title": "Why is GOOGL moving today?",
-        "updated_at": "20m ago",
-        "summary": "Alphabet (GOOGL) stock fell 1.4% as investors reacted to broader tech market declines and mixed sentiment around AI developments, underperforming the Communication Services sector's 0.99% drop. The company is experiencing significant momentum driven by AI advancements, particularly with its new AI model, Gemini 3, and is nearing a $4 trillion valuation, reflecting strong market confidence and growth potential.",
+        "title": "AI Analysis",
+        "updated_at": "Updated 17m ago",
+        "summary": "Alphabet Inc. is experiencing significant stock growth, nearing a market cap of $4 trillion, driven by advancements in AI, despite challenges in the broader tech landscape. Analysts maintain a generally positive outlook with a price target suggesting a potential 20% upside. The company's recent focus on AI, including the launch of its new AI model Gemini 3, is enhancing revenue and boosting investor confidence.",
         "bullets": [
-          "Alphabet is nearing a $4 trillion valuation fueled by AI advancements and a record revenue quarter.",
-          "Analysts maintain a generally optimistic outlook, with significant growth potential driven by its new AI model, Gemini 3.",
-          "The global AI market is projected to reach $3.5 trillion by 2033, growing at a 31.5% annual rate, highlighting the expanding potential of the industry.",
-          "Despite concerns about an AI bubble, capital markets are expected to continue supporting AI investments, reflecting confidence in tech companies' future growth.",
-          "Alphabet reported a $100 billion revenue quarter, contributing to its rising stock value and reflecting strong market confidence."
+          "AI-Driven Growth: Alphabet's stock surge is largely attributed to its advancements in AI technology, particularly the launch of its new AI model, Gemini 3, which is enhancing revenue and boosting investor confidence.",
+          "Insider Transactions: Recent insider activity included 12 stock sales by Director John L. Hennessy totaling $168,034.10 on November 13, 2025, involving 600 shares of Class C Capital Stock, with an average sale value of approximately $14,002.84 per transaction.",
+          "Market Dynamics in Tech: The tech sector faces rising costs, especially in memory chips due to increased demand for data center equipment, which could impact consumer electronics prices by up to 60%.",
+          "Waymo's Competitive Edge: Waymo is expanding its autonomous vehicle operations to new cities, strengthening its position against competitors like Tesla and Amazon's Zoox."
         ]
       }
     },
@@ -71,16 +84,14 @@
       },
       "analysis": {
         "ticker": "NVDA",
-        "title": "AI Analysis",
-        "updated_at": "Updated 26m ago",
-        "summary": "Nvidia's recent Q3 earnings exceeded expectations with an EPS of $1.30 and revenue of $57.01 billion, driven by strong AI chip demand. However, geopolitical tensions and disappointing performance in China have raised concerns, leading to a 3.15% decline in stock value amidst broader market volatility. Despite strong earnings, the stock fell 3% post-report due to market fears about interest rates and potential AI bubble concerns. Analysts remain positive with price targets ranging from $220 to $320, indicating substantial growth potential.",
+        "title": "Overview",
+        "updated_at": "Updated 20m ago",
+        "summary": "Nvidia's recent earnings report showed strong performance, including a 32% growth in its automotive segment generating $592 million in revenue. Despite this, the stock declined 3.1% due to market volatility and concerns over interest rate decisions. Analysts remain optimistic with price targets well above the current market price, indicating potential for future growth.",
         "bullets": [
-          "Market Reaction: Despite strong earnings, Nvidia's stock fell 3% post-report as market fears about interest rates and potential AI bubble concerns emerged.",
-          "Analyst Sentiment: Analysts maintain a positive outlook, with price targets ranging from $220 to $320, indicating substantial growth potential from the current price of $186.52.",
-          "Earnings Performance: Nvidia reported Q3 earnings with an EPS of $1.30 and revenue of $57.01 billion, showcasing robust demand for AI chips despite geopolitical challenges.",
-          "China Market Challenges: Sales in China reached only $2.8 billion, significantly underperforming against analyst projections of $8.4 billion due to geopolitical issues and U.S. export restrictions.",
-          "Automotive Sector Growth: The automotive segment saw a 32% increase in revenue to $592 million, driven by new partnerships in self-driving technology.",
-          "Insider Transaction Activity: Recent insider activity featured 15 sale transactions by Colette Kress (EVP & CFO), totaling $9,924,868.86 on November 3, 2025, with one sale significantly larger than typical patterns."
+          "Nvidia's automotive business revenue surged 32% year-over-year, generating $592 million in revenue, reflecting robust demand for self-driving technologies.",
+          "The stock experienced a 3.1% decline following earnings, influenced by broader market concerns over interest rates and leveraged buying, contributing to increased volatility.",
+          "Recent insider activity included 15 sale transactions by Colette Kress (EVP & CFO), totaling $9,924,868.86 across 47,358 shares, with one sale being 3.4X larger than typical patterns.",
+          "Nvidia's P/E ratio decreased from 48.89x in Q2 2026 to 45.63x in Q3 2026, indicating a more attractive valuation for investors despite slowing growth metrics."
         ]
       }
     },
@@ -104,15 +115,15 @@
       },
       "analysis": {
         "ticker": "AMZN",
-        "title": "AI Analysis",
-        "updated_at": "Updated 21m ago",
-        "summary": "Amazon is navigating a challenging environment with labor market shifts and new regulatory pressures, while showing mixed financial results including improved revenue growth but declining efficiency metrics. Analysts remain optimistic with price targets well above the current price, reflecting a positive outlook despite operational challenges. Recent insider stock sales and significant compliance costs from new air cargo regulations are notable factors influencing the stock's movement.",
+        "title": "Overview",
+        "updated_at": "Updated 18m ago",
+        "summary": "Amazon is facing a challenging environment with labor market shifts leading to job cuts and regulatory pressures that could impose significant costs on its air cargo operations. Despite these hurdles, the company shows signs of improved profitability and revenue growth, and analysts remain optimistic with price targets well above the current market price. Insider stock sales have occurred recently, but overall sentiment remains positive.",
         "bullets": [
-          "Analysts are optimistic, with price targets ranging from $248 to $315, significantly above the current market price of $222.69, reflecting recent upgrades.",
-          "On November 17, 2025, insiders executed 5 stock sales totaling $1,322,963.18, including 4 sales by CEO Douglas J Herrington and 1 sale by Director Keith Brian Alexander.",
-          "New compliance rules for air cargo may impose costs between $877 million and $1.04 billion, pressuring operational budgets and profitability.",
-          "Amazon is facing job cuts amid a broader labor market shift, indicating a potential move to a more volatile labor market environment.",
-          "In Q3 2025, revenue growth improved to 11.48%, EPS growth slowed to 49.05%, and gross margin strengthened to 34.68%, indicating better core profitability but challenges in efficiency metrics."
+          "New Customs and Border Protection regulations may cost Amazon up to $1 billion in air cargo compliance, potentially straining logistics.",
+          "Amazon is experiencing job cuts reflecting labor market instability, raising concerns about workforce and operational efficiency.",
+          "Analysts have bullish price targets ranging from $248 to $315, above the current price of $222.69, with upgrades from Cantor Fitzgerald and Wedbush.",
+          "On November 17, 2025, insiders executed 5 stock sales totaling $1,322,963.18; CEO Douglas J Herrington accounted for 4 sales involving 4,784 shares.",
+          "In Q3 2025, Amazon's revenue growth improved to 11.48%, EPS growth slowed to 49.05%, gross margin strengthened to 34.68%, but free cash flow yield remained negative at -0.02."
         ]
       }
     }

@@ -8,7 +8,7 @@
     },
     {
       "ticker": "GOOGL",
-      "error": "YahooQuote failed",
+      "error": null,
       "marketwatch": null
     },
     {

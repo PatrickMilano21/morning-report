@@ -3,23 +3,23 @@
   "macro_news": {
     "morning_date": "2025-11-20",
     "morning_url": "https://vitalknowledge.net/?category=morning",
-    "morning_summary": "US stocks are showing positive momentum this morning, largely driven by strong performance in the tech sector, particularly Nvidia. Market sentiment is cautiously optimistic ahead of key economic data releases and major corporate earnings, with investors closely watching catalysts such as Nvidia, Walmart, and US jobs data.",
+    "morning_summary": "US stocks are showing positive momentum this morning, largely driven by strong performances in the tech sector, particularly Nvidia. Market sentiment is cautiously optimistic ahead of key economic data releases and corporate earnings, with investors closely watching catalysts such as Nvidia, Walmart, and US jobs data.",
     "morning_bullets": [
-      "US stocks have a bid this morning, with Nvidia playing a significant role in driving gains.",
-      "Modest gains are observed in the US market as investors anticipate three major catalysts: Nvidia earnings, Walmart earnings, and upcoming US jobs data.",
-      "Tech sector is leading the upside, extending gains from the previous Friday afternoon session.",
-      "Market participants are preparing for key economic indicators, including US jobs data, which is influencing current market sentiment.",
-      "Stocks are rallying or stabilizing after recent losses, reflecting cautious optimism amid upcoming corporate earnings and economic data releases."
+      "US stocks have a bid this morning, with Nvidia contributing significantly to the gains.",
+      "Stocks are seeing modest gains as three major catalysts approach: Nvidia, Walmart, and US jobs data.",
+      "Tech sector is leading the upside, extending gains from the previous Friday afternoon.",
+      "Market participants are preparing for key economic indicators and corporate earnings that could influence near-term market direction.",
+      "Overall market sentiment is cautiously optimistic, with stocks rallying after recent losses and attempting to stabilize following previous slumps."
     ],
     "market_close_date": "2025-11-20",
     "market_close_url": "https://vitalknowledge.net/?category=market-close",
-    "market_close_summary": "Stocks experienced significant declines on Thursday, driven by renewed anxiety in the AI sector following Nvidia's disappointing performance. The market sentiment turned cautious as investors reacted to sector-specific concerns, leading to broad losses across major indices.",
+    "market_close_summary": "Stocks experienced significant declines on Thursday, driven by renewed concerns over AI following Nvidia's disappointing outlook. The market showed mixed performance earlier in the week, with tech stocks under pressure while equal-weight indices managed modest gains. Overall, investor sentiment turned cautious amid sector-specific worries and broader economic uncertainties.",
     "market_close_bullets": [
-      "Stocks suffered heavy losses on Thursday, November 20, 2025, after Nvidia failed to alleviate AI-related concerns.",
-      "The Nasdaq extended its losses on Tuesday, November 18, 2025, while the equal-weight S&P and Russell 2000 indices managed modest gains, indicating mixed sector performance.",
-      "Stocks saw steep losses on Monday, November 17, 2025, reflecting heightened market volatility and risk-off sentiment.",
-      "Despite the slump in tech, stocks saw decent gains on Tuesday, November 11, 2025, suggesting some resilience in other sectors.",
-      "Overall, the market has been volatile with mixed price action throughout the week, influenced heavily by tech sector developments and investor sentiment towards AI advancements."
+      "On Thursday, stocks suffered heavy losses after Nvidia failed to alleviate AI-related anxieties, marking a notable market downturn.",
+      "Earlier in the week, the Nasdaq extended its losses while the equal-weight S&P and Russell 2000 indices eked out gains, indicating sector divergence.",
+      "Monday saw steep losses across the market, reflecting growing investor concerns and risk-off sentiment.",
+      "Despite the tech slump, stocks saw decent gains on Tuesday, showing some resilience in other sectors.",
+      "Market sentiment shifted to cautiousness due to mixed economic signals and sector-specific challenges, influencing the overall market outlook."
     ]
   }
 }
